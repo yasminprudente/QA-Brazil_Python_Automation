@@ -1,5 +1,5 @@
 #constante
-URBAN_ROUTES_URL = 'https://cnt-6ddb7fa1-ee25-4bfe-99d5-37dc72607c17.containerhub.tripleten-services.com?lng=pt'
+URBAN_ROUTES_URL = 'https://cnt-8910649f-1d26-4ea8-8c76-c094b5f30bc2.containerhub.tripleten-services.com?lng=pt'
 
 #dados de teste
 ADDRESS_FROM = 'East 2nd Street, 601'
