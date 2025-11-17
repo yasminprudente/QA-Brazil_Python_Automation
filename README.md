@@ -1,8 +1,15 @@
-### Diretrizes de nomenclatura de código
+# Projeto: Brazil Python Automation
 
-- **Nomes de variáveis** são escritos em `snake_case` e descrevem sua finalidade;
-- **Constantes** são escritas em maiúsculas;
-- **Comentários** são usados para explicar blocos importantes de código;
-- A **organização do código** é modular, com blocos de código reutilizáveis importados para onde for necessário;
-- Evite funções de espera (`wait`) desnecessárias que fazem com que o teste seja executado por mais tempo do que o necessário;
-- Siga uma **convenção de nomenclatura** para títulos de teste que começam com `test\_` e fornece uma descrição clara do cenário de teste. Os títulos dos testes são fornecidos no resumo.
+Esse projeto fez parte dos Sprint 7 e 8 do Bootcamp de Analista de QA da TripleTen, onde fomos introduzidos à automação de testes com o Pycharm e Selenium. 
+
+## Tecnologias:
+
+- Python
+- Selenium
+- Pytest
+- Classes
+- Localização de elementos
+- POM
+
+
+
