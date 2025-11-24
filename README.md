@@ -1,15 +1,21 @@
-# Projeto: Brazil Python Automation
+🚀 Project: Brazil Python Automation
 
-Esse projeto fez parte dos Sprint 7 e 8 do Bootcamp de Analista de QA da TripleTen, onde fomos introduzidos à automação de testes com o Pycharm e Selenium, testando algumas funções da plataforma Urban Routes.
+This project was developed as part of Sprints 7 and 8 of the TripleTen QA Analyst Bootcamp, where I was introduced to test automation using PyCharm and Selenium.
+The goal was to automate key functionalities of the Urban Routes platform, applying clean code practices, element interaction techniques, and structured automation patterns.
 
-## Tecnologias:
+🧰 Technologies & Concepts Used
 
-- Python
-- Selenium
-- Pytest
-- Classes
-- Localização de elementos
-- POM
+Python – scripting and test logic
+
+Selenium WebDriver – browser automation
+
+Pytest – test structure and execution
+
+Page Object Model (POM) – scalable test architecture
+
+Element Locators – XPath, CSS selectors, IDs, etc.
+
+Classes & OOP – organized and reusable automation structure
 
 
 
